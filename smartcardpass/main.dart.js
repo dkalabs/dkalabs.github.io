@@ -6693,7 +6693,7 @@ m=n?"bg-gray-800 shadow-md":"bg-white shadow-md"
 l=A.i8("Logo","h-8 w-8 mr-2","https://placehold.co/40x40?text=Logo")
 k=n?"text-white":"text-gray-900"
 j=t.i
-k=A.iM(A.H(A.e([l,A.ei(A.e([new A.F("Your Indie App",null)],j),"font-bold text-xl "+k)],j),"flex items-center"),"/")
+k=A.iM(A.H(A.e([l,A.ei(A.e([new A.F("Your Indie App",null)],j),"font-bold text-xl "+k)],j),"flex items-center"),"/smartcardpass/")
 l=n?"text-gray-300 hover:text-white":"text-gray-600 hover:text-gray-900"
 i=t.N
 h=t.Q
