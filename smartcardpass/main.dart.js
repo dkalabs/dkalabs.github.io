@@ -6633,7 +6633,7 @@ q=p}while(true)switch(q){case 0:n=s.d
 m=n?"bg-gray-900 text-white":"bg-gray-100 text-gray-900"
 l=t.df
 q=2
-return b.b=new A.dz(n,s.ge8(),A.H(A.e([A.oG(A.e([new A.bo(new A.jB(),A.e([A.iZ(new A.jC(),"/smartcardpass/","Home"),A.iZ(new A.jD(),"/smartcardpass/privacy","Privacy Policy"),A.iZ(new A.jE(),"/smartcardpass/tos","Terms of Service")],l))],l))],t.i),"min-h-screen "+m+" flex flex-col"),null,null),1
+return b.b=new A.dz(n,s.ge8(),A.H(A.e([A.oG(A.e([new A.bo(new A.jB(),A.e([A.iZ(new A.jC(),"/","Home"),A.iZ(new A.jD(),"/privacy","Privacy Policy"),A.iZ(new A.jE(),"/tos","Terms of Service")],l))],l))],t.i),"min-h-screen "+m+" flex flex-col"),null,null),1
 case 2:return 0
 case 1:return b.c=o,3}}}}}
 A.jA.prototype={
